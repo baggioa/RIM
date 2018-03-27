@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/rim.css">
+    <title></title>
+    <script type="text/javascript" src="js/rim.js"></script>
+
+  </head>
+  <body onload="titoli()">
+    <div>
+      <input type="text" id="codice">
+      <button type="button" name="button" id="invio" onclick="createTr()">Invio</button>
+    </div>
+    <i class="fa fa-fw fa-eye-slash" onclick="showhide(event)"></i>
+    <table onclick="changestate(event)" >
+      <thead>
+        <tr id="testata" >
+          <th>Articolo</th>
+        </tr>
+      </thead>
+      <tbody id="corpo">
+      </tbody>
+    </table>
+    <input type="button" onclick="creaJSON()" value="Crea JSON">
+    <div id="log"></div>
+  </body>
+</html>

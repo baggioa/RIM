@@ -1,0 +1,111 @@
+[{
+  "codice": "123",
+  "reparti": [{
+    "reparto": "reparto Magazzino",
+    "icone": [{
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }]
+  }, {
+    "reparto": "reparto Officina",
+    "icone": [{
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }]
+  }, {
+    "reparto": "reparto Qualità",
+    "icone": [{
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }]
+  }, {
+    "reparto": "reparto Produzione",
+    "icone": [{
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }]
+  }]
+}, {
+  "codice": "245",
+  "reparti": [{
+    "reparto": "reparto Magazzino",
+    "icone": [{
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }]
+  }, {
+    "reparto": "reparto Officina",
+    "icone": [{
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }]
+  }, {
+    "reparto": "reparto Qualità",
+    "icone": [{
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }]
+  }, {
+    "reparto": "reparto Produzione",
+    "icone": [{
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }, {
+      "icone2": "attivaConsegne fa fa-fw fa-square-o"
+    }, {
+      "icone2": "fa fa-fw fa-square"
+    }]
+  }]
+}]
